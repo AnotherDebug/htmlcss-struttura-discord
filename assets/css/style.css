@@ -133,3 +133,45 @@ main {
     background-color: #ffbfcb;
     border: 1px dashed #000;
 }
+
+
+/* *Section Community */
+.box-community {
+    width: 100%;
+    height: 630px;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Immagine */
+.box-community .img {
+    width: 750px;
+    height: 520px;
+    background-color: #1D90FF;
+    border: 1px dashed #000;
+}
+/* Testo */
+.box-community .text {
+    width: 500px;
+    height: 520px;
+    background-color: #ffbfcb;
+    border: 1px dashed #000;
+}
+
+
+/* *Section Audio-video */
+.box-video-audio {
+    width: 100%;
+    height: 620px;
+    justify-content: center;
+    align-items: center;
+    background-color: #D3D3D3;
+}
+
+/* Immagine */
+.box-video-audio .audio-video {
+    width: 750px;
+    height: 520px;
+    background-color: #238B21;
+    border: 1px dashed #000;
+}
